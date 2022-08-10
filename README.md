@@ -5,6 +5,6 @@
 - 📫 How to reach me: anecdotejong@gmail.com
 
 
-<img align="left"  style="width: 40vw" src="https://github-readme-stats.vercel.app/api?username=anecjong"/>
-<img align="right"  style="width: 40vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anecjong&langs_count=10&layout=compact&theme=white"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=anecjong"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anecjong&langs_count=10&layout=compact&theme=white"/>
 
