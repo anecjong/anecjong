@@ -6,5 +6,5 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=anecjong"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anecjong&langs_count=10&layout=compact&theme=white"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anecjong&langs_count=10&layout=compact&theme=white"/>
 
